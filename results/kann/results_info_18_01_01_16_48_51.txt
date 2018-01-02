@@ -1,0 +1,4 @@
+SIMPLE PROGRAM = /home/daniele/test/libs/kann_simple/examples/rnn-bit
+STITCHED PROGRAM = /home/daniele/test/libs/kann/examples/rnn-bit_expf
+SIMPLE PROGRAM ARGS =  -m2 -o add.kan /home/daniele/test/libs/kann/examples/train.txt
+STITCHED PROGRAM ARGS =  -m2 -o add.kan /home/daniele/test/libs/kann/examples/train.txt

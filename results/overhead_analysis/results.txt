@@ -1,0 +1,52 @@
+Ratio: 1.494034	Diff: -0.494034
+Ratio: 1.508296	Diff: -0.508296
+Ratio: 1.492554	Diff: -0.492554
+Ratio: 1.492883	Diff: -0.492883
+Ratio: 1.494385	Diff: -0.494385
+Ratio: 1.497118	Diff: -0.497118
+Ratio: 1.510214	Diff: -0.510214
+Ratio: 1.511984	Diff: -0.511984
+Ratio: 1.506880	Diff: -0.506880
+Ratio: 1.506403	Diff: -0.506403
+Ratio (external/direct): 1.501475
+
+
+// With instruction miss
+Ratio: 6.832944	Diff: -5.832944
+Ratio: 6.420925	Diff: -5.420925
+Ratio: 6.766435	Diff: -5.766435
+Ratio: 6.925409	Diff: -5.925409
+Ratio: 7.236136	Diff: -6.236136
+Ratio: 6.747423	Diff: -5.747423
+Ratio: 7.241098	Diff: -6.241098
+Ratio: 6.272462	Diff: -5.272462
+Ratio: 6.311675	Diff: -5.311675
+Ratio: 6.561360	Diff: -5.561360
+Ratio (external/direct): 6.731587
+
+
+// With data miss
+Ratio: 2.833708	Diff: -1.833708
+Ratio: 3.045837	Diff: -2.045837
+Ratio: 2.952298	Diff: -1.952298
+Ratio: 3.247269	Diff: -2.247269
+Ratio: 3.392559	Diff: -2.392559
+Ratio: 3.051835	Diff: -2.051835
+Ratio: 3.012898	Diff: -2.012898
+Ratio: 3.074762	Diff: -2.074762
+Ratio: 2.966357	Diff: -1.966357
+Ratio: 3.325465	Diff: -2.325465
+Ratio (external/direct): 3.090299
+
+// With both
+Ratio: 7.314216	Diff: -6.314216
+Ratio: 7.303581	Diff: -6.303581
+Ratio: 7.226961	Diff: -6.226961
+Ratio: 7.289738	Diff: -6.289738
+Ratio: 7.418970	Diff: -6.418970
+Ratio: 7.162006	Diff: -6.162006
+Ratio: 7.009430	Diff: -6.009430
+Ratio: 7.193098	Diff: -6.193098
+Ratio: 7.215883	Diff: -6.215883
+Ratio: 7.299807	Diff: -6.299807
+Ratio (external/direct): 7.243369
